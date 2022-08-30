@@ -22,3 +22,6 @@ features:<br>
 other description: <br>
 - it currently is not sharing any data. in case you want it, please drop me an email: mailme@anirbansaha.com 
 - in the blog post.
+
+
+viewof clicks = Inputs.button("OK", {label: "Click me"})
